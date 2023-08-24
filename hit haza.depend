@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1692876094 source:c:\users\hamza\desktop\projet free lance\hit haza\main.cpp
+	<iostream>
+	"curl/include/curl/curl.h"
+
+1689680761 c:\users\hamza\desktop\projet free lance\hit haza\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"typecheck-gcc.h"
+
+1690351880 c:\users\hamza\desktop\projet free lance\hit haza\curl\include\curl\curlver.h
+
+1689673608 c:\users\hamza\desktop\projet free lance\hit haza\curl\include\curl\system.h
+	<ConditionalMacros.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1686830601 c:\users\hamza\desktop\projet free lance\hit haza\curl\include\curl\easy.h
+
+1684148159 c:\users\hamza\desktop\projet free lance\hit haza\curl\include\curl\multi.h
+	"curl.h"
+
+1686830601 c:\users\hamza\desktop\projet free lance\hit haza\curl\include\curl\urlapi.h
+	"curl.h"
+
+1684148159 c:\users\hamza\desktop\projet free lance\hit haza\curl\include\curl\options.h
+
+1684148159 c:\users\hamza\desktop\projet free lance\hit haza\curl\include\curl\header.h
+
+1690125219 c:\users\hamza\desktop\projet free lance\hit haza\curl\include\curl\websockets.h
+
+1689673608 c:\users\hamza\desktop\projet free lance\hit haza\curl\include\curl\typecheck-gcc.h
+
+1689680761 c:\users\hamza\desktop\projet free lance\hit haza\curl-8.2.1\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"typecheck-gcc.h"
+
+1690351880 c:\users\hamza\desktop\projet free lance\hit haza\curl-8.2.1\include\curl\curlver.h
+
+1689673608 c:\users\hamza\desktop\projet free lance\hit haza\curl-8.2.1\include\curl\system.h
+	<ConditionalMacros.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1686830601 c:\users\hamza\desktop\projet free lance\hit haza\curl-8.2.1\include\curl\easy.h
+
+1684148159 c:\users\hamza\desktop\projet free lance\hit haza\curl-8.2.1\include\curl\multi.h
+	"curl.h"
+
+1686830601 c:\users\hamza\desktop\projet free lance\hit haza\curl-8.2.1\include\curl\urlapi.h
+	"curl.h"
+
+1684148159 c:\users\hamza\desktop\projet free lance\hit haza\curl-8.2.1\include\curl\options.h
+
+1684148159 c:\users\hamza\desktop\projet free lance\hit haza\curl-8.2.1\include\curl\header.h
+
+1690125219 c:\users\hamza\desktop\projet free lance\hit haza\curl-8.2.1\include\curl\websockets.h
+
+1689673608 c:\users\hamza\desktop\projet free lance\hit haza\curl-8.2.1\include\curl\typecheck-gcc.h
+
